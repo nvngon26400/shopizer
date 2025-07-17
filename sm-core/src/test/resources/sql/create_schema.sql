@@ -1,1 +1,1 @@
-create schema IF NOT EXISTS SALESMANAGER;
+create schema IF NOT EXISTS shopizer;
